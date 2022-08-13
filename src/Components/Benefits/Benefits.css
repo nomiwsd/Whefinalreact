@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxanium&display=swap");
+.para1 {
+  text-align: center;
+}
+.Benefit {
+  background-color: #161634;
+}
+.Textp {
+  color: orangered;
+}
+.card {
+  background-color: #0f0826;
+  color: white;
+  border-radius: 20px;
+  border-left: 3px solid rgb(223, 104, 61) !important;
+  text-align: left;
+  margin-bottom: 40px;
+}
+.card-body:hover {
+  margin-left: -15px;
+  border-radius: 20px;
+  border-left: 7px solid orangered;
+}
+.card-title:hover {
+  color: orangered;
+}
+.featurette-heading {
+  font-size: 32px;
+  font-family: "Oxanium", cursive;
+}

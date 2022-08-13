@@ -1,0 +1,35 @@
+.About {
+  background-color: #060826;
+  color: white;
+}
+.featurette-heading {
+  font-size: 32px;
+  font-family: "Oxanium", cursive;
+}
+.btn {
+  text-decoration: none;
+  font-size: 18px;
+  width: 175px;
+  height: 70px;
+  border-radius: 40px;
+  background-image: linear-gradient(
+    to left top,
+    #fd562a,
+    rgba(211, 40, 83, 0.7),
+    rgba(148, 31, 95, 0.8),
+    #4f2155,
+    #161634
+  );
+  color: white;
+}
+.btn:hover {
+  background-image: linear-gradient(
+    to left top,
+    #f7f7f7,
+    rgba(245, 245, 245, 0.7),
+    rgba(255, 255, 255, 0.8),
+    #ffffff,
+    #ffffff
+  );
+  color: orangered;
+}

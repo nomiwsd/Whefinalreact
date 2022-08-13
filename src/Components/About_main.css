@@ -1,0 +1,14 @@
+.bgimg{
+    background-image: url('Bg2.png');
+    background-color: #060826;
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+   
+}
+.list{
+    list-style-type: none;
+}
+.hed{
+color:orangered;
+}

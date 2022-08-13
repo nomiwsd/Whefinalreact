@@ -1,0 +1,22 @@
+a{
+text-decoration: none;
+color:white;
+}
+a:hover {
+  color: #fd562a !important;
+}
+
+.btn1 {
+  border: solid 2px orangered;
+  border-radius: 20px;
+  color: #ffffff;
+  background-color: #212529;
+}
+.btn1:hover {
+  border: solid 2px orangered;
+  color: white;
+}
+.btn1:visited {
+  border: solid 2px lightslategrey;
+  color: white;
+}

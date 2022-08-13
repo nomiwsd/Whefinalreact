@@ -1,0 +1,36 @@
+.Footer {
+    text-decoration: none;
+    background-color: #060826;
+    color: #ffffff;
+}
+
+.linksi {
+    text-decoration: none;
+    color: #fd562a;
+    border: 1px solid orangered;
+    border-radius: 5px;
+}
+
+.linksi:hover {
+    background-color: #fd562a;
+    color: white
+}
+
+.links {
+    border: #fd562a;
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+
+.links:hover {
+    color: orangered;
+}
+
+.head2 {
+    font-size: 28px;
+}
+
+.foot:hover {
+    background-color: #fd562a;
+}
